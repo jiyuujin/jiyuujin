@@ -11,26 +11,19 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      ### ⚡ Bio & Development Style
-      **使いやすさを追求した実用的なプロダクトを爆速で開発・運用する** スタイルを中心に活動しています。
-      
-      * 🛠️ **Focus:** Application Architecture & Backend Design (Node.js / TypeScript / Rust).
-      * 📱 **Community:** **FlutterKaigi** コアスタッフ / 現場主義のカンファレンス運営推進
-      * 💬 **Ask me about:** Automation, operational efficiency, modern architectures, or Kansai tech events.
-      * 📫 **Contact:** jiyuujinunite@gmail.com
-      * 😄 **Pronouns:** he/his/him
-      * ⚡ **Fun fact:** Camera📸 might turn you into an instagrammer.
-    </td>
-    <td width="35%" valign="top" align="center">
-      <img src="https://c.tenor.com/8IZLXcKEjF4AAAAC/brown-bear-typing.gif" width="160" stroke="true" />
-      <br />
-      <sub>爆速タイピング中... 🐻💻</sub>
-    </td>
-  </tr>
-</table>
+### ⚡ Bio & Development Style
+**使いやすさを追求した実用的なプロダクトを爆速で開発・運用する** スタイルを中心に活動しています。
+
+<img src="https://c.tenor.com/8IZLXcKEjF4AAAAC/brown-bear-typing.gif" width="160" align="right" />
+
+* 🛠️ **Focus:** Application Architecture & Backend Design (Node.js / TypeScript / Rust).
+* 📱 **Community:** **FlutterKaigi** コアスタッフ / 現場主義のカンファレンス運営推進
+* 💬 **Ask me about:** Automation, operational efficiency, modern architectures, or Kansai tech events.
+* 📫 **Contact:** jiyuujinunite@gmail.com
+* 😄 **Pronouns:** he/his/him
+* ⚡ **Fun fact:** Camera📸 might turn you into an instagrammer.
+
+<br clear="right" />
 
 ---
 
@@ -49,11 +42,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyuujin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="YUMA Kitamura's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyuujin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="YUMA Kitamura's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuujin&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+![YUMA Kitamura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyuujin&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+<br />
+
+![YUMA Kitamura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyuujin&show_icons=true&theme=dark&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuujin&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+</div>
