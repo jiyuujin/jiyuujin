@@ -44,10 +44,10 @@
 
 <div align="center">
 
-![YUMA Kitamura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyuujin&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![jiyuujin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyuujin&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
-![YUMA Kitamura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyuujin&show_icons=true&theme=dark&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuujin&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![jiyuujin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyuujin&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyuujin&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </div>
