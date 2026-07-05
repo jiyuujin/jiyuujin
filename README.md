@@ -27,19 +27,6 @@
 
 ---
 
-### 🚀 Recent Products & Ecosystem
-「使いやすさ」と「スピード」を重視して制作・運用しているプロダクト。
-
-| プロダクト名 | 役割・概要 | 技術スタック（主要） |
-| :--- | :--- | :--- |
-| **[Tracc](https://go.tracc.jp/) ★** | カンファレンス運営の効率化（スポンサー管理） | Dart (Flutter)、Firebase、Cloudflare (Workers + KV)、AWS (S3 + CloudFront)、Node.js (TypeScript)、React |
-| **Rocket Form** | 入力フォームにおけるボット設置支援 | Node.js (TypeScript)、Cloudflare (KV + D1) |
-| **Commitment Board** | チーム決め支援 | Node.js (TypeScript)、Cloudflare (KV + D1) |
-| **Image Go (imgo)** | 画像圧縮・最適化 | Rust、GCP (Cloud Run)、Node.js (TypeScript)、Cloudflare (Workers) |
-| **Multi Post Dash** | SNS（X、Bluesky、Threads、Mastodon）同時投稿 | Node.js (TypeScript)、Cloudflare (Workers) |
-
----
-
 ### 📊 GitHub Stats
 
 
