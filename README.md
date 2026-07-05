@@ -1,33 +1,54 @@
-### こんにちは 👋🏻, I am [jiyuujin](https://yuma-kitamura.nekohack.me/)
+# Hi there, I'm [YUMA Kitamura](https://yuma-kitamura.nekohack.me/) 👋
 
-<a href="https://twitter.com/jiyuujinlab">
-  <img align="left" alt="jiyuujin's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://youtrust.jp/users/yuukit">
-  <img align="left" alt="jiyuujin's YouTrust" width="22px" src="https://cdn-icons-png.flaticon.com/512/720/720234.png" />
-</a>
-<a href="https://nekohack.me/">
-  <img align="left" alt="jiyuujin's Org" width="22px" src="https://cdn-icons-png.flaticon.com/512/2517/2517299.png" />
-</a>
-<a href="https://webneko.dev/">
-  <img align="left" alt="jiyuujin's Blog" width="22px" src="https://cdn-icons-png.flaticon.com/512/3025/3025547.png" />
-</a>
+<p align="left">
+  <a href="https://times.nekohack.me/"><img src="https://img.shields.io/badge/Mastodon-563acc?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
+  <a href="https://youtrust.jp/users/yuukit"><img src="https://img.shields.io/badge/YouTrust-279299?style=for-the-badge" alt="YouTrust" /></a>
+  <a href="https://blog.nekohack.me/"><img src="https://img.shields.io/badge/Weblog-121011?style=for-the-badge&logo=ghost&logoColor=white" alt="Weblog" /></a>
+  <a href="https://nekohack.me/"><img src="https://img.shields.io/badge/Nekohack-ff4500?style=for-the-badge&logoColor=white" alt="Org" /></a>
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jiyuujin.jiyuujin)
-[![GitHub followers](https://img.shields.io/github/followers/jiyuujin.svg?style=social&label=Follow)](https://github.com/jiyuujin?tab=followers)
 
-#### Talk about personal stuffs
+---
 
-<img src='https://c.tenor.com/8IZLXcKEjF4AAAAC/brown-bear-typing.gif' align='right' width='200'>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      ### ⚡ Bio & Development Style
+      **使いやすさを追求した実用的なプロダクトを爆速で開発・運用する** スタイルを中心に活動しています。
+      
+      * 🛠️ **Focus:** Application Architecture & Backend Design (Node.js / TypeScript / Rust).
+      * 📱 **Community:** **FlutterKaigi** コアスタッフ / 現場主義のカンファレンス運営推進
+      * 💬 **Ask me about:** Automation, operational efficiency, modern architectures, or Kansai tech events.
+      * 📫 **Contact:** jiyuujinunite@gmail.com
+      * 😄 **Pronouns:** he/his/him
+      * ⚡ **Fun fact:** Camera📸 might turn you into an instagrammer.
+    </td>
+    <td width="35%" valign="top" align="center">
+      <img src="https://c.tenor.com/8IZLXcKEjF4AAAAC/brown-bear-typing.gif" width="160" stroke="true" />
+      <br />
+      <sub>爆速タイピング中... 🐻💻</sub>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on a few react projects.
-- 👯 I’m looking to collaborate on my node packages -- [nekohack-ui](https://github.com/jiyuujin/nekohack-ui), [useful](https://github.com/jiyuujin/useful) and [hack-react](https://github.com/jiyuujin/hack-react) 🤘🏻
-- 🤔 I’m looking for help with anything in which you have expertise.
-- 💬 Ask me about anything, but I may be slow to respond.
-- 📫 How to reach me: jiyuujinunite@gmail.com
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Camera📸📸 just might turn you instagrammar.
+---
 
-</br>
+### 🚀 Recent Products & Ecosystem
+「使いやすさ」と「スピード」を重視して制作・運用しているプロダクト。
 
-![jiyuujin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyuujin&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+| プロダクト名 | 役割・概要 | 技術スタック（主要） |
+| :--- | :--- | :--- |
+| **[Tracc](https://go.tracc.jp/) ★** | カンファレンス運営の効率化（スポンサー管理） | Dart (Flutter)、Firebase、Cloudflare (Workers + KV)、AWS (S3 + CloudFront)、Node.js (TypeScript)、React |
+| **Rocket Form** | 入力フォームにおけるボット設置支援 | Node.js (TypeScript)、Cloudflare (KV + D1) |
+| **Commitment Board** | チーム決め支援 | Node.js (TypeScript)、Cloudflare (KV + D1) |
+| **Image Go (imgo)** | 画像圧縮・最適化 | Rust、GCP (Cloud Run)、Node.js (TypeScript)、Cloudflare (Workers) |
+| **Multi Post Dash** | SNS（X、Bluesky、Threads、Mastodon）同時投稿 | Node.js (TypeScript)、Cloudflare (Workers) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiyuujin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="YUMA Kitamura's GitHub Stats" />
+</p>
